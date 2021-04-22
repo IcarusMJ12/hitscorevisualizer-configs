@@ -5,63 +5,63 @@
          "threshold": 15
       },
       {
-         "text": "<#00FF00><size=195%>⓮</size></color>",
+         "text": "<#00FF00><size=195%>14</size></color>",
          "threshold": 14
       },
       {
-         "text": "<#40FF00><size=190%>⓭</size></color>",
+         "text": "<#40FF00><size=190%>13</size></color>",
          "threshold": 13
       },
       {
-         "text": "<#80FF00><size=185%>⓬</size></color>",
+         "text": "<#80FF00><size=185%>12</size></color>",
          "threshold": 12
       },
       {
-         "text": "<#C0FF00><size=180%>⓫</size></color>",
+         "text": "<#C0FF00><size=180%>11</size></color>",
          "threshold": 11
       },
       {
-         "text": "<#FFFF00><size=175%>⓾</size></color>",
+         "text": "<#FFFF00><size=175%>10</size></color>",
          "threshold": 10
       },
       {
-         "text": "<#FFF000><size=170%>⓽</size></color>",
+         "text": "<#FFF000><size=170%>9</size></color>",
          "threshold": 9
       },
       {
-         "text": "<#FFE000><size=165%>⓼</size></color>",
+         "text": "<#FFE000><size=165%>8</size></color>",
          "threshold": 8
       },
       {
-         "text": "<#FFD000><size=160%>⓻</size></color>",
+         "text": "<#FFD000><size=160%>7</size></color>",
          "threshold": 7
       },
       {
-         "text": "<#FFC000><size=155%>⓺</size></color>",
+         "text": "<#FFC000><size=155%>6</size></color>",
          "threshold": 6
       },
       {
-         "text": "<#FFB000><size=150%>⑤</size></color>",
+         "text": "<#FFB000><size=150%>5</size></color>",
          "threshold": 5
       },
       {
-         "text": "<#FFA000><size=145%>④</size></color>",
+         "text": "<#FFA000><size=145%>4</size></color>",
          "threshold": 4
       },
       {
-         "text": "<#FF9000><size=140%>③</size></color>",
+         "text": "<#FF9000><size=140%>3</size></color>",
          "threshold": 3
       },
       {
-         "text": "<#FF7000><size=135%>②</size></color>",
+         "text": "<#FF7000><size=135%>2</size></color>",
          "threshold": 2
       },
       {
-         "text": "<#FF4000><size=130%>①</size></color>",
+         "text": "<#FF4000><size=130%>1</size></color>",
          "threshold": 1
       },
       {
-         "text": "<#FF0000><size=125%>❌</size></color>",
+         "text": "<#FF0000><size=125%>⓪</size></color>",
          "threshold": 0
       }
    ],
