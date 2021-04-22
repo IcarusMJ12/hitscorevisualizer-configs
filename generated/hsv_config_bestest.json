@@ -1,143 +1,143 @@
 {
    "accuracyJudgments": [
       {
-         "text": "<color=FFFFFF><size=200%>★</size></color>",
+         "text": "<#FFFFFF><size=200%>★</size></color>",
          "threshold": 15
       },
       {
-         "text": "<color=00FF00><size=195%>⓮</size></color>",
+         "text": "<#00FF00><size=195%>⓮</size></color>",
          "threshold": 14
       },
       {
-         "text": "<color=40FF00><size=190%>⓭</size></color>",
+         "text": "<#40FF00><size=190%>⓭</size></color>",
          "threshold": 13
       },
       {
-         "text": "<color=80FF00><size=185%>⓬</size></color>",
+         "text": "<#80FF00><size=185%>⓬</size></color>",
          "threshold": 12
       },
       {
-         "text": "<color=C0FF00><size=180%>⓫</size></color>",
+         "text": "<#C0FF00><size=180%>⓫</size></color>",
          "threshold": 11
       },
       {
-         "text": "<color=FFFF00><size=175%>⓾</size></color>",
+         "text": "<#FFFF00><size=175%>⓾</size></color>",
          "threshold": 10
       },
       {
-         "text": "<color=FFF000><size=170%>⓽</size></color>",
+         "text": "<#FFF000><size=170%>⓽</size></color>",
          "threshold": 9
       },
       {
-         "text": "<color=FFE000><size=165%>⓼</size></color>",
+         "text": "<#FFE000><size=165%>⓼</size></color>",
          "threshold": 8
       },
       {
-         "text": "<color=FFD000><size=160%>⓻</size></color>",
+         "text": "<#FFD000><size=160%>⓻</size></color>",
          "threshold": 7
       },
       {
-         "text": "<color=FFC000><size=155%>⓺</size></color>",
+         "text": "<#FFC000><size=155%>⓺</size></color>",
          "threshold": 6
       },
       {
-         "text": "<color=FFB000><size=150%>⑤</size></color>",
+         "text": "<#FFB000><size=150%>⑤</size></color>",
          "threshold": 5
       },
       {
-         "text": "<color=FFA000><size=145%>④</size></color>",
+         "text": "<#FFA000><size=145%>④</size></color>",
          "threshold": 4
       },
       {
-         "text": "<color=FF9000><size=140%>③</size></color>",
+         "text": "<#FF9000><size=140%>③</size></color>",
          "threshold": 3
       },
       {
-         "text": "<color=FF7000><size=135%>②</size></color>",
+         "text": "<#FF7000><size=135%>②</size></color>",
          "threshold": 2
       },
       {
-         "text": "<color=FF4000><size=130%>①</size></color>",
+         "text": "<#FF4000><size=130%>①</size></color>",
          "threshold": 1
       },
       {
-         "text": "<color=FF0000><size=125%>❌</size></color>",
+         "text": "<#FF0000><size=125%>❌</size></color>",
          "threshold": 0
       }
    ],
    "afterCutAngleJudgments": [
       {
-         "text": "<color=FFFFFF><size=100%></size></color>",
+         "text": "<#FFFFFF><size=100%></size></color>",
          "threshold": 30
       },
       {
-         "text": "<color=00FF00><size=170%>50°</size></color>",
+         "text": "<#00FF00><size=170%>50°</size></color>",
          "threshold": 25
       },
       {
-         "text": "<color=80FF00><size=160%>40°</size></color>",
+         "text": "<#80FF00><size=160%>40°</size></color>",
          "threshold": 20
       },
       {
-         "text": "<color=FFFF00><size=150%>30°</size></color>",
+         "text": "<#FFFF00><size=150%>30°</size></color>",
          "threshold": 15
       },
       {
-         "text": "<color=FFC000><size=140%>20°</size></color>",
+         "text": "<#FFC000><size=140%>20°</size></color>",
          "threshold": 10
       },
       {
-         "text": "<color=FF8000><size=130%>10°</size></color>",
+         "text": "<#FF8000><size=130%>10°</size></color>",
          "threshold": 5
       },
       {
-         "text": "<color=FF0000><size=125%>0°</size></color>",
+         "text": "<#FF0000><size=125%>0°</size></color>",
          "threshold": 0
       }
    ],
    "beforeCutAngleJudgments": [
       {
-         "text": "<color=FFFFFF><size=100%></size></color>",
+         "text": "<#FFFFFF><size=100%></size></color>",
          "threshold": 70
       },
       {
-         "text": "<color=00FF00><size=170%>90°</size></color>",
+         "text": "<#00FF00><size=170%>90°</size></color>",
          "threshold": 63
       },
       {
-         "text": "<color=80FF00><size=165%>80°</size></color>",
+         "text": "<#80FF00><size=165%>80°</size></color>",
          "threshold": 56
       },
       {
-         "text": "<color=FFFF00><size=160%>70°</size></color>",
+         "text": "<#FFFF00><size=160%>70°</size></color>",
          "threshold": 49
       },
       {
-         "text": "<color=FFE000><size=155%>60°</size></color>",
+         "text": "<#FFE000><size=155%>60°</size></color>",
          "threshold": 42
       },
       {
-         "text": "<color=FFC000><size=150%>50°</size></color>",
+         "text": "<#FFC000><size=150%>50°</size></color>",
          "threshold": 35
       },
       {
-         "text": "<color=FFA000><size=145%>40°</size></color>",
+         "text": "<#FFA000><size=145%>40°</size></color>",
          "threshold": 28
       },
       {
-         "text": "<color=FF8000><size=140%>30°</size></color>",
+         "text": "<#FF8000><size=140%>30°</size></color>",
          "threshold": 21
       },
       {
-         "text": "<color=FF6000><size=135%>20°</size></color>",
+         "text": "<#FF6000><size=135%>20°</size></color>",
          "threshold": 14
       },
       {
-         "text": "<color=FF4000><size=130%>10°</size></color>",
+         "text": "<#FF4000><size=130%>10°</size></color>",
          "threshold": 7
       },
       {
-         "text": "<color=FF0000><size=125%>0°</size></color>",
+         "text": "<#FF0000><size=125%>0°</size></color>",
          "threshold": 0
       }
    ],
