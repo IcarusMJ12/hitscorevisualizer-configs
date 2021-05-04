@@ -1,0 +1,104 @@
+{
+   "accuracyJudgments": null,
+   "afterCutAngleJudgments": [
+      {
+         "text": "",
+         "threshold": 30
+      },
+      {
+         "text": "<size=200%>☹</size>",
+         "threshold": 0
+      }
+   ],
+   "beforeCutAngleJudgments": [
+      {
+         "text": "",
+         "threshold": 70
+      },
+      {
+         "text": "<size=200%>☹</size>",
+         "threshold": 0
+      }
+   ],
+   "displayMode": "format",
+   "doIntermediateUpdates": true,
+   "fixedPosX": 0,
+   "fixedPosY": 0,
+   "fixedPosZ": 0,
+   "isDefaultConfig": false,
+   "judgments": [
+      {
+         "color": [
+            1,
+            1,
+            1,
+            1
+         ],
+         "fade": false,
+         "text": "<size=300%>❤</size>",
+         "threshold": 115
+      },
+      {
+         "color": [
+            0,
+            1,
+            0,
+            1
+         ],
+         "fade": false,
+         "text": "%B%n%c%n%A",
+         "threshold": 101
+      },
+      {
+         "color": [
+            1,
+            0.98039215800000001,
+            0,
+            1
+         ],
+         "fade": false,
+         "text": "%B%n%c%n%A",
+         "threshold": 90
+      },
+      {
+         "color": [
+            1,
+            0.59999999999999998,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%c%n%A",
+         "threshold": 80
+      },
+      {
+         "color": [
+            1,
+            0,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%c%n%A",
+         "threshold": 60
+      },
+      {
+         "color": [
+            0.5,
+            0,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%c%n%A",
+         "threshold": 0
+      }
+   ],
+   "majorVersion": 3,
+   "minorVersion": 0,
+   "patchVersion": 7,
+   "timeDependencyDecimalOffset": 2,
+   "timeDependencyDecimalPrecision": 1,
+   "timeDependencyJudgments": null,
+   "useFixedPos": false
+}
