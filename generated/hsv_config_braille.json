@@ -1,0 +1,169 @@
+{
+   "accuracyJudgments": [
+      {
+         "text": "<size=200%>★</size>",
+         "threshold": 15
+      },
+      {
+         "text": "⠁⠄",
+         "threshold": 14
+      },
+      {
+         "text": "⠁⠃",
+         "threshold": 13
+      },
+      {
+         "text": "⠁⠂",
+         "threshold": 12
+      },
+      {
+         "text": "⠁⠁",
+         "threshold": 11
+      },
+      {
+         "text": "⠁⠀",
+         "threshold": 10
+      },
+      {
+         "text": "⠀⠉",
+         "threshold": 9
+      },
+      {
+         "text": "⠀⠈",
+         "threshold": 8
+      },
+      {
+         "text": "⠀⠇",
+         "threshold": 7
+      },
+      {
+         "text": "⠀⠆",
+         "threshold": 6
+      },
+      {
+         "text": "⠀⠅",
+         "threshold": 5
+      },
+      {
+         "text": "⠀⠄",
+         "threshold": 4
+      },
+      {
+         "text": "⠀⠃",
+         "threshold": 3
+      },
+      {
+         "text": "⠀⠂",
+         "threshold": 2
+      },
+      {
+         "text": "⠀⠁",
+         "threshold": 1
+      },
+      {
+         "text": "⠀⠀",
+         "threshold": 0
+      }
+   ],
+   "afterCutAngleJudgments": [
+      {
+         "text": "",
+         "threshold": 30
+      },
+      {
+         "text": "<size=200%>☹</size>",
+         "threshold": 0
+      }
+   ],
+   "beforeCutAngleJudgments": [
+      {
+         "text": "",
+         "threshold": 70
+      },
+      {
+         "text": "<size=200%>☹</size>",
+         "threshold": 0
+      }
+   ],
+   "displayMode": "format",
+   "doIntermediateUpdates": true,
+   "fixedPosX": 0,
+   "fixedPosY": 0,
+   "fixedPosZ": 0,
+   "isDefaultConfig": false,
+   "judgments": [
+      {
+         "color": [
+            1,
+            1,
+            1,
+            1
+         ],
+         "fade": false,
+         "text": "<size=300%>❤</size>",
+         "threshold": 115
+      },
+      {
+         "color": [
+            0,
+            1,
+            0,
+            1
+         ],
+         "fade": false,
+         "text": "%B%n%C%n%A",
+         "threshold": 101
+      },
+      {
+         "color": [
+            1,
+            0.98039215800000001,
+            0,
+            1
+         ],
+         "fade": false,
+         "text": "%B%n%C%n%A",
+         "threshold": 90
+      },
+      {
+         "color": [
+            1,
+            0.59999999999999998,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%C%n%A",
+         "threshold": 80
+      },
+      {
+         "color": [
+            1,
+            0,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%C%n%A",
+         "threshold": 60
+      },
+      {
+         "color": [
+            0.5,
+            0,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%C%n%A",
+         "threshold": 0
+      }
+   ],
+   "majorVersion": 3,
+   "minorVersion": 0,
+   "patchVersion": 7,
+   "timeDependencyDecimalOffset": 2,
+   "timeDependencyDecimalPrecision": 1,
+   "timeDependencyJudgments": null,
+   "useFixedPos": false
+}

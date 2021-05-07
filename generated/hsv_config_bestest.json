@@ -1,7 +1,7 @@
 {
    "accuracyJudgments": [
       {
-         "text": "<#FFFFFF><size=200%>★</size></color>",
+         "text": "<size=200%>★</size>",
          "threshold": 15
       },
       {
@@ -67,7 +67,7 @@
    ],
    "afterCutAngleJudgments": [
       {
-         "text": "<#FFFFFF><size=100%></size></color>",
+         "text": "",
          "threshold": 30
       },
       {
@@ -97,7 +97,7 @@
    ],
    "beforeCutAngleJudgments": [
       {
-         "text": "<#FFFFFF><size=100%></size></color>",
+         "text": "",
          "threshold": 70
       },
       {

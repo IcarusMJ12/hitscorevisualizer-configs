@@ -1,4 +1,8 @@
-function(threshold, text, size=100, color='FFFFFF') {
+function(threshold, text, size=false, color=false) {
   threshold: threshold,
-  text: '<#' + color + '><size=' + size + '%>' + text + '</size></color>',
+  text: (if color != false then '<#' + color + '>' else '') +
+        (if size != false then '<size=' + size + '%>' else '') +
+        text +
+        (if size != false then '</size>' else '') +
+        (if color != false then '</color>' else ''),
 }
