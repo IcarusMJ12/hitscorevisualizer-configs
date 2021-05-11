@@ -5,63 +5,63 @@
          "threshold": 15
       },
       {
-         "text": "<mark=#ffff00aa>⠁⠄</mark>",
+         "text": "<mark=#aaaaaaaa>⠁⠄</mark>",
          "threshold": 14
       },
       {
-         "text": "<size=#ffff00aa%>⠁⠃</size>",
+         "text": "<size=#aaaaaaaa%>⠁⠃</size>",
          "threshold": 13
       },
       {
-         "text": "<size=#ffff00aa%>⠁⠂</size>",
+         "text": "<size=#aaaaaaaa%>⠁⠂</size>",
          "threshold": 12
       },
       {
-         "text": "<size=#ffff00aa%>⠁⠁</size>",
+         "text": "<size=#aaaaaaaa%>⠁⠁</size>",
          "threshold": 11
       },
       {
-         "text": "<size=#ffff00aa%>⠁⠀</size>",
+         "text": "<size=#aaaaaaaa%>⠁⠀</size>",
          "threshold": 10
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠉</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠉</size>",
          "threshold": 9
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠈</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠈</size>",
          "threshold": 8
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠇</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠇</size>",
          "threshold": 7
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠆</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠆</size>",
          "threshold": 6
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠅</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠅</size>",
          "threshold": 5
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠄</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠄</size>",
          "threshold": 4
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠃</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠃</size>",
          "threshold": 3
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠂</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠂</size>",
          "threshold": 2
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠁</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠁</size>",
          "threshold": 1
       },
       {
-         "text": "<size=#ffff00aa%>⠀⠀</size>",
+         "text": "<size=#aaaaaaaa%>⠀⠀</size>",
          "threshold": 0
       }
    ],
