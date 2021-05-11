@@ -13,4 +13,4 @@ You can then select your configuration in-game from the Hit Score Visualizer mod
 
 You will need `jsonnet` and, optionally, `make`.  AFAICT these are not typically available on Windows.
 
-Then, `jsonnet <some-config>.jsonnet -o generated/<some-config>.json` or just `make <some-config>.json` and follow pregenerated instructions above.
+Then, `jsonnet <some-config>.jsonnet -o generated/<some-config>.json` or just `make` and follow pregenerated instructions above.

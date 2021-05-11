@@ -84,14 +84,13 @@ base_config {
     },
   ],
   beforeCutAngleJudgments: [
-    {
-      threshold: 70,
-      text: '',
-    },
-    {
-      threshold: 0,
-      text: sad_swing_text,
-    },
+    make_judgment(70, ''),
+    make_judgment(63, '♭'),
+    make_judgment(56, '♭♭'),
+    make_judgment(49, '♭♭♭'),
+    make_judgment(42, '♭♭♭♭'),
+    make_judgment(35, '♭♭♭♭♭'),
+    make_judgment(0, '☹'),
   ],
   accuracyJudgments: [
     make_judgment(15, '★', 200),
@@ -112,14 +111,13 @@ base_config {
     make_judgment(0, zero + zero, false, false, '#80808080'),
   ],
   afterCutAngleJudgments: [
-    {
-      threshold: 30,
-      text: '',
-    },
-    {
-      threshold: 0,
-      text: sad_swing_text,
-    },
+    make_judgment(30, ''),
+    make_judgment(27, '♯'),
+    make_judgment(24, '♯♯'),
+    make_judgment(21, '♯♯♯'),
+    make_judgment(18, '♯♯♯♯'),
+    make_judgment(15, '♯♯♯♯♯'),
+    make_judgment(0, '☹'),
   ],
   timeDependencyJudgments: null,
 }

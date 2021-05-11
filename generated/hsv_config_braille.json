@@ -71,7 +71,27 @@
          "threshold": 30
       },
       {
-         "text": "<size=200%>☹</size>",
+         "text": "♯",
+         "threshold": 27
+      },
+      {
+         "text": "♯♯",
+         "threshold": 24
+      },
+      {
+         "text": "♯♯♯",
+         "threshold": 21
+      },
+      {
+         "text": "♯♯♯♯",
+         "threshold": 18
+      },
+      {
+         "text": "♯♯♯♯♯",
+         "threshold": 15
+      },
+      {
+         "text": "☹",
          "threshold": 0
       }
    ],
@@ -81,7 +101,27 @@
          "threshold": 70
       },
       {
-         "text": "<size=200%>☹</size>",
+         "text": "♭",
+         "threshold": 63
+      },
+      {
+         "text": "♭♭",
+         "threshold": 56
+      },
+      {
+         "text": "♭♭♭",
+         "threshold": 49
+      },
+      {
+         "text": "♭♭♭♭",
+         "threshold": 42
+      },
+      {
+         "text": "♭♭♭♭♭",
+         "threshold": 35
+      },
+      {
+         "text": "☹",
          "threshold": 0
       }
    ],
