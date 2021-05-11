@@ -5,63 +5,63 @@
          "threshold": 15
       },
       {
-         "text": "⠁⠄",
+         "text": "<mark=#ffff00aa>⠁⠄</mark>",
          "threshold": 14
       },
       {
-         "text": "⠁⠃",
+         "text": "<size=#ffff00aa%>⠁⠃</size>",
          "threshold": 13
       },
       {
-         "text": "⠁⠂",
+         "text": "<size=#ffff00aa%>⠁⠂</size>",
          "threshold": 12
       },
       {
-         "text": "⠁⠁",
+         "text": "<size=#ffff00aa%>⠁⠁</size>",
          "threshold": 11
       },
       {
-         "text": "⠁⠀",
+         "text": "<size=#ffff00aa%>⠁⠀</size>",
          "threshold": 10
       },
       {
-         "text": "⠀⠉",
+         "text": "<size=#ffff00aa%>⠀⠉</size>",
          "threshold": 9
       },
       {
-         "text": "⠀⠈",
+         "text": "<size=#ffff00aa%>⠀⠈</size>",
          "threshold": 8
       },
       {
-         "text": "⠀⠇",
+         "text": "<size=#ffff00aa%>⠀⠇</size>",
          "threshold": 7
       },
       {
-         "text": "⠀⠆",
+         "text": "<size=#ffff00aa%>⠀⠆</size>",
          "threshold": 6
       },
       {
-         "text": "⠀⠅",
+         "text": "<size=#ffff00aa%>⠀⠅</size>",
          "threshold": 5
       },
       {
-         "text": "⠀⠄",
+         "text": "<size=#ffff00aa%>⠀⠄</size>",
          "threshold": 4
       },
       {
-         "text": "⠀⠃",
+         "text": "<size=#ffff00aa%>⠀⠃</size>",
          "threshold": 3
       },
       {
-         "text": "⠀⠂",
+         "text": "<size=#ffff00aa%>⠀⠂</size>",
          "threshold": 2
       },
       {
-         "text": "⠀⠁",
+         "text": "<size=#ffff00aa%>⠀⠁</size>",
          "threshold": 1
       },
       {
-         "text": "⠀⠀",
+         "text": "<size=#ffff00aa%>⠀⠀</size>",
          "threshold": 0
       }
    ],

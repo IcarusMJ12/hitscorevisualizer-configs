@@ -1,12 +1,37 @@
 {
-   "accuracyJudgments": null,
+   "accuracyJudgments": [
+      {
+         "text": "<size=250%>★</size>",
+         "threshold": 15
+      },
+      {
+         "text": "<size=225%>♫ ♫</size>",
+         "threshold": 14
+      },
+      {
+         "text": "<size=200%>♪ ♫</size>",
+         "threshold": 13
+      },
+      {
+         "text": "<size=175%>♫</size>",
+         "threshold": 12
+      },
+      {
+         "text": "<size=150%>♪</size>",
+         "threshold": 11
+      },
+      {
+         "text": "%c",
+         "threshold": 0
+      }
+   ],
    "afterCutAngleJudgments": [
       {
          "text": "",
          "threshold": 30
       },
       {
-         "text": "<size=200%>☹</size>",
+         "text": "%a",
          "threshold": 0
       }
    ],
@@ -16,7 +41,7 @@
          "threshold": 70
       },
       {
-         "text": "<size=200%>☹</size>",
+         "text": "%b",
          "threshold": 0
       }
    ],
@@ -46,7 +71,7 @@
             1
          ],
          "fade": false,
-         "text": "%B%n%c%n%A",
+         "text": "%B%n%C%n%A",
          "threshold": 101
       },
       {
@@ -57,7 +82,7 @@
             1
          ],
          "fade": false,
-         "text": "%B%n%c%n%A",
+         "text": "%B%n%C%n%A",
          "threshold": 90
       },
       {
@@ -68,7 +93,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%c%n%A",
+         "text": "%B%n%C%n%A",
          "threshold": 80
       },
       {
@@ -79,7 +104,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%c%n%A",
+         "text": "%B%n%C%n%A",
          "threshold": 60
       },
       {
@@ -90,7 +115,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%c%n%A",
+         "text": "%B%n%C%n%A",
          "threshold": 0
       }
    ],

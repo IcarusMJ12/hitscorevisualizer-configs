@@ -1,6 +1,6 @@
 local base_config = import 'common/base_config.jsonnet';
-local judgment_text = '%B%n%c%n%A';
-local sad_swing_text = '<size=200%>☹</size>';
+local judgment_text = '%B%n%C%n%A';
+local make_judgment = import 'common/make_judgment.jsonnet';
 
 base_config {
   judgments: [
@@ -72,25 +72,20 @@ base_config {
     },
   ],
   beforeCutAngleJudgments: [
-    {
-      threshold: 70,
-      text: '',
-    },
-    {
-      threshold: 0,
-      text: sad_swing_text,
-    },
+    make_judgment(70, ''),
+    make_judgment(0, '%b'),
   ],
-  accuracyJudgments: null,
+  accuracyJudgments: [
+    make_judgment(15, '★', 250),
+    make_judgment(14, '♫ ♫', 225),
+    make_judgment(13, '♪ ♫', 200),
+    make_judgment(12, '♫', 175),
+    make_judgment(11, '♪', 150),
+    make_judgment(0, '%c'),
+  ],
   afterCutAngleJudgments: [
-    {
-      threshold: 30,
-      text: '',
-    },
-    {
-      threshold: 0,
-      text: sad_swing_text,
-    },
+    make_judgment(30, ''),
+    make_judgment(0, '%a'),
   ],
   timeDependencyJudgments: null,
 }
