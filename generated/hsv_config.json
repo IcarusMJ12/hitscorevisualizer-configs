@@ -9,7 +9,7 @@
          "threshold": 14
       },
       {
-         "text": "<size=200%>♪ ♫</size>",
+         "text": "<size=200%>♪ ♪ ♪</size>",
          "threshold": 13
       },
       {
@@ -21,7 +21,47 @@
          "threshold": 11
       },
       {
-         "text": "%c",
+         "text": "10",
+         "threshold": 10
+      },
+      {
+         "text": "9",
+         "threshold": 9
+      },
+      {
+         "text": "8",
+         "threshold": 8
+      },
+      {
+         "text": "7",
+         "threshold": 7
+      },
+      {
+         "text": "6",
+         "threshold": 6
+      },
+      {
+         "text": "5",
+         "threshold": 5
+      },
+      {
+         "text": "4",
+         "threshold": 4
+      },
+      {
+         "text": "3",
+         "threshold": 3
+      },
+      {
+         "text": "2",
+         "threshold": 2
+      },
+      {
+         "text": "1",
+         "threshold": 1
+      },
+      {
+         "text": "0",
          "threshold": 0
       }
    ],
@@ -31,7 +71,27 @@
          "threshold": 30
       },
       {
-         "text": "%a",
+         "text": "♯",
+         "threshold": 27
+      },
+      {
+         "text": "♯♯",
+         "threshold": 24
+      },
+      {
+         "text": "♯♯♯",
+         "threshold": 21
+      },
+      {
+         "text": "♯♯♯♯",
+         "threshold": 18
+      },
+      {
+         "text": "♯♯♯♯♯",
+         "threshold": 15
+      },
+      {
+         "text": "☹",
          "threshold": 0
       }
    ],
@@ -41,7 +101,27 @@
          "threshold": 70
       },
       {
-         "text": "%b",
+         "text": "♭",
+         "threshold": 63
+      },
+      {
+         "text": "♭♭",
+         "threshold": 56
+      },
+      {
+         "text": "♭♭♭",
+         "threshold": 49
+      },
+      {
+         "text": "♭♭♭♭",
+         "threshold": 42
+      },
+      {
+         "text": "♭♭♭♭♭",
+         "threshold": 35
+      },
+      {
+         "text": "☹",
          "threshold": 0
       }
    ],
