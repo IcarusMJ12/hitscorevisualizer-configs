@@ -1,0 +1,209 @@
+{
+   "accuracyJudgments": [
+      {
+         "text": "<size=250%>★</size>",
+         "threshold": 15
+      },
+      {
+         "text": "<size=225%>♫ ♫</size>",
+         "threshold": 14
+      },
+      {
+         "text": "<size=200%>♪ ♪ ♪</size>",
+         "threshold": 13
+      },
+      {
+         "text": "<size=175%>♫</size>",
+         "threshold": 12
+      },
+      {
+         "text": "<size=150%>♪</size>",
+         "threshold": 11
+      },
+      {
+         "text": "10",
+         "threshold": 10
+      },
+      {
+         "text": "9",
+         "threshold": 9
+      },
+      {
+         "text": "8",
+         "threshold": 8
+      },
+      {
+         "text": "7",
+         "threshold": 7
+      },
+      {
+         "text": "6",
+         "threshold": 6
+      },
+      {
+         "text": "5",
+         "threshold": 5
+      },
+      {
+         "text": "4",
+         "threshold": 4
+      },
+      {
+         "text": "3",
+         "threshold": 3
+      },
+      {
+         "text": "2",
+         "threshold": 2
+      },
+      {
+         "text": "1",
+         "threshold": 1
+      },
+      {
+         "text": "0",
+         "threshold": 0
+      }
+   ],
+   "afterCutAngleJudgments": [
+      {
+         "text": "<size=200%></size>",
+         "threshold": 30
+      },
+      {
+         "text": "<size=200%>♯</size>",
+         "threshold": 27
+      },
+      {
+         "text": "<size=200%>♯♯</size>",
+         "threshold": 24
+      },
+      {
+         "text": "<size=200%>♯♯♯</size>",
+         "threshold": 21
+      },
+      {
+         "text": "<size=200%>♯♯♯♯</size>",
+         "threshold": 18
+      },
+      {
+         "text": "<size=200%>♯♯♯♯♯</size>",
+         "threshold": 15
+      },
+      {
+         "text": "<size=200%>☹</size>",
+         "threshold": 0
+      }
+   ],
+   "beforeCutAngleJudgments": [
+      {
+         "text": "<size=200%></size>",
+         "threshold": 70
+      },
+      {
+         "text": "<size=200%>♭</size>",
+         "threshold": 63
+      },
+      {
+         "text": "<size=200%>♭♭</size>",
+         "threshold": 56
+      },
+      {
+         "text": "<size=200%>♭♭♭</size>",
+         "threshold": 49
+      },
+      {
+         "text": "<size=200%>♭♭♭♭</size>",
+         "threshold": 42
+      },
+      {
+         "text": "<size=200%>♭♭♭♭♭</size>",
+         "threshold": 35
+      },
+      {
+         "text": "<size=200%>☹</size>",
+         "threshold": 0
+      }
+   ],
+   "displayMode": "format",
+   "doIntermediateUpdates": true,
+   "fixedPosX": 0,
+   "fixedPosY": 0,
+   "fixedPosZ": 0,
+   "isDefaultConfig": false,
+   "judgments": [
+      {
+         "color": [
+            1,
+            1,
+            1,
+            1
+         ],
+         "fade": false,
+         "text": "<size=300%>❤</size>",
+         "threshold": 115
+      },
+      {
+         "color": [
+            0,
+            1,
+            0,
+            1
+         ],
+         "fade": false,
+         "text": "%B%n%C%n%A",
+         "threshold": 101
+      },
+      {
+         "color": [
+            1,
+            0.98039215800000001,
+            0,
+            1
+         ],
+         "fade": false,
+         "text": "%B%n%C%n%A",
+         "threshold": 90
+      },
+      {
+         "color": [
+            1,
+            0.59999999999999998,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%C%n%A",
+         "threshold": 80
+      },
+      {
+         "color": [
+            1,
+            0,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%C%n%A",
+         "threshold": 60
+      },
+      {
+         "color": [
+            0.5,
+            0,
+            0,
+            1
+         ],
+         "fade": true,
+         "text": "%B%n%C%n%A",
+         "threshold": 0
+      }
+   ],
+   "majorVersion": 3,
+   "minorVersion": 0,
+   "patchVersion": 7,
+   "timeDependencyDecimalOffset": 2,
+   "timeDependencyDecimalPrecision": 1,
+   "timeDependencyJudgments": null,
+   "useFixedPos": false
+}
