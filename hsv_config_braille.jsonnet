@@ -2,6 +2,7 @@ local base_config = import 'common/base_before_after.jsonnet';
 local judgment_text = '%B%n%C%n%A';
 local make_judgment = import 'common/make_judgment.jsonnet';
 local sad_swing_text = '<size=200%>☹</size>';
+local judge(threshold, text) = make_judgment(threshold, text, 200, false, '#80808080');
 
 local zero = '⠀';
 local one = '⠁';
@@ -85,21 +86,21 @@ base_config {
   ],
   accuracyJudgments: [
     make_judgment(15, '★', 200),
-    make_judgment(14, one + four, false, false, '#80808080'),
-    make_judgment(13, one + three, false, false, '#80808080'),
-    make_judgment(12, one + two, false, false, '#80808080'),
-    make_judgment(11, one + one, false, false, '#80808080'),
-    make_judgment(10, one + zero, false, false, '#80808080'),
-    make_judgment(9, zero + nine, false, false, '#80808080'),
-    make_judgment(8, zero + eight, false, false, '#80808080'),
-    make_judgment(7, zero + seven, false, false, '#80808080'),
-    make_judgment(6, zero + six, false, false, '#80808080'),
-    make_judgment(5, zero + five, false, false, '#80808080'),
-    make_judgment(4, zero + four, false, false, '#80808080'),
-    make_judgment(3, zero + three, false, false, '#80808080'),
-    make_judgment(2, zero + two, false, false, '#80808080'),
-    make_judgment(1, zero + one, false, false, '#80808080'),
-    make_judgment(0, zero + zero, false, false, '#80808080'),
+    judge(14, one + four),
+    judge(13, one + three),
+    judge(12, one + two),
+    judge(11, one + one),
+    judge(10, one + zero),
+    judge(9, zero + nine),
+    judge(8, zero + eight),
+    judge(7, zero + seven),
+    judge(6, zero + six),
+    judge(5, zero + five),
+    judge(4, zero + four),
+    judge(3, zero + three),
+    judge(2, zero + two),
+    judge(1, zero + one),
+    judge(0, zero + zero),
   ],
   timeDependencyJudgments: null,
 }

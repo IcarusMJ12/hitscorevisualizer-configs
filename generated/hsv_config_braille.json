@@ -5,63 +5,63 @@
          "threshold": 15
       },
       {
-         "text": "<mark=#80808080>⠁⠄</mark>",
+         "text": "<mark=#80808080><size=200%>⠁⠄</size></mark>",
          "threshold": 14
       },
       {
-         "text": "<mark=#80808080>⠁⠃</mark>",
+         "text": "<mark=#80808080><size=200%>⠁⠃</size></mark>",
          "threshold": 13
       },
       {
-         "text": "<mark=#80808080>⠁⠂</mark>",
+         "text": "<mark=#80808080><size=200%>⠁⠂</size></mark>",
          "threshold": 12
       },
       {
-         "text": "<mark=#80808080>⠁⠁</mark>",
+         "text": "<mark=#80808080><size=200%>⠁⠁</size></mark>",
          "threshold": 11
       },
       {
-         "text": "<mark=#80808080>⠁⠀</mark>",
+         "text": "<mark=#80808080><size=200%>⠁⠀</size></mark>",
          "threshold": 10
       },
       {
-         "text": "<mark=#80808080>⠀⠉</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠉</size></mark>",
          "threshold": 9
       },
       {
-         "text": "<mark=#80808080>⠀⠈</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠈</size></mark>",
          "threshold": 8
       },
       {
-         "text": "<mark=#80808080>⠀⠇</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠇</size></mark>",
          "threshold": 7
       },
       {
-         "text": "<mark=#80808080>⠀⠆</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠆</size></mark>",
          "threshold": 6
       },
       {
-         "text": "<mark=#80808080>⠀⠅</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠅</size></mark>",
          "threshold": 5
       },
       {
-         "text": "<mark=#80808080>⠀⠄</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠄</size></mark>",
          "threshold": 4
       },
       {
-         "text": "<mark=#80808080>⠀⠃</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠃</size></mark>",
          "threshold": 3
       },
       {
-         "text": "<mark=#80808080>⠀⠂</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠂</size></mark>",
          "threshold": 2
       },
       {
-         "text": "<mark=#80808080>⠀⠁</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠁</size></mark>",
          "threshold": 1
       },
       {
-         "text": "<mark=#80808080>⠀⠀</mark>",
+         "text": "<mark=#80808080><size=200%>⠀⠀</size></mark>",
          "threshold": 0
       }
    ],
