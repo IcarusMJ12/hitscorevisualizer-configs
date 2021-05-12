@@ -1,4 +1,4 @@
-local base_config = import 'common/base_config.jsonnet';
+local base_config = import 'common/base_before_after.jsonnet';
 local judgment_text = '%B%n%C%n%A';
 local make_judgment = import 'common/make_judgment.jsonnet';
 
@@ -71,15 +71,6 @@ base_config {
       fade: true,
     },
   ],
-  beforeCutAngleJudgments: [
-    make_judgment(70, ''),
-    make_judgment(63, '♭'),
-    make_judgment(56, '♭♭'),
-    make_judgment(49, '♭♭♭'),
-    make_judgment(42, '♭♭♭♭'),
-    make_judgment(35, '♭♭♭♭♭'),
-    make_judgment(0, '☹'),
-  ],
   accuracyJudgments: [
     make_judgment(15, '★', 250),
     make_judgment(14, '♫ ♫', 225),
@@ -97,15 +88,6 @@ base_config {
     make_judgment(2, '2'),
     make_judgment(1, '1'),
     make_judgment(0, '0'),
-  ],
-  afterCutAngleJudgments: [
-    make_judgment(30, ''),
-    make_judgment(27, '♯'),
-    make_judgment(24, '♯♯'),
-    make_judgment(21, '♯♯♯'),
-    make_judgment(18, '♯♯♯♯'),
-    make_judgment(15, '♯♯♯♯♯'),
-    make_judgment(0, '☹'),
   ],
   timeDependencyJudgments: null,
 }
