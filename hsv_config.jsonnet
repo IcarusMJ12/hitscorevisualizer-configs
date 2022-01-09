@@ -16,7 +16,7 @@ base_config {
       fade: false,
     },
     {
-      threshold: 101,
+      threshold: 114,
       text: judgment_text,
       color: [
         0.0,
@@ -27,7 +27,7 @@ base_config {
       fade: false,
     },
     {
-      threshold: 90,
+      threshold: 104,
       text: judgment_text,
       color: [
         1.0,
@@ -35,10 +35,10 @@ base_config {
         0.0,
         1.0,
       ],
-      fade: false,
+      fade: true,
     },
     {
-      threshold: 80,
+      threshold: 92,
       text: judgment_text,
       color: [
         1.0,
@@ -49,7 +49,7 @@ base_config {
       fade: true,
     },
     {
-      threshold: 60,
+      threshold: 81,
       text: judgment_text,
       color: [
         1.0,

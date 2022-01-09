@@ -152,7 +152,7 @@
          ],
          "fade": false,
          "text": "%B%n%C%n%A",
-         "threshold": 101
+         "threshold": 114
       },
       {
          "color": [
@@ -161,9 +161,9 @@
             0,
             1
          ],
-         "fade": false,
+         "fade": true,
          "text": "%B%n%C%n%A",
-         "threshold": 90
+         "threshold": 104
       },
       {
          "color": [
@@ -174,7 +174,7 @@
          ],
          "fade": true,
          "text": "%B%n%C%n%A",
-         "threshold": 80
+         "threshold": 92
       },
       {
          "color": [
@@ -185,7 +185,7 @@
          ],
          "fade": true,
          "text": "%B%n%C%n%A",
-         "threshold": 60
+         "threshold": 81
       },
       {
          "color": [
