@@ -97,7 +97,7 @@ base_config {
     judge(49, '---'),
     judge(42, '----'),
     judge(35, '-----'),
-    judge(0, '☹'),
+    judge(0, 'FFFF'),
   ],
   afterCutAngleJudgments: [
     judge(30, ''),
@@ -106,7 +106,7 @@ base_config {
     judge(21, '+++'),
     judge(18, '++++'),
     judge(15, '+++++'),
-    judge(0, '☹'),
+    judge(0, 'UUUU'),
   ],
   timeDependencyJudgments: null,
 }
