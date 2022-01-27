@@ -1,5 +1,5 @@
 local base_config = import 'common/base_config.jsonnet';
-local judgment_text = '%B%n%C%n%A';
+local judgment_text = '%B %C %A';
 local make_judgment = import 'common/make_judgment.jsonnet';
 local judge(threshold, text) = make_judgment(threshold, text, 200);
 
@@ -92,21 +92,21 @@ base_config {
   ],
   beforeCutAngleJudgments: [
     judge(70, ''),
-    judge(63, '-'),
-    judge(56, '--'),
-    judge(49, '---'),
-    judge(42, '----'),
-    judge(35, '-----'),
-    judge(0, 'FFFF'),
+    judge(63, '<'),
+    judge(56, '<<'),
+    judge(49, '<<<'),
+    judge(42, '<<<<'),
+    judge(35, '<<<<<'),
+    judge(0, 'FFFFF'),
   ],
   afterCutAngleJudgments: [
     judge(30, ''),
-    judge(27, '+'),
-    judge(24, '++'),
-    judge(21, '+++'),
-    judge(18, '++++'),
-    judge(15, '+++++'),
-    judge(0, 'UUUU'),
+    judge(27, '>'),
+    judge(24, '>>'),
+    judge(21, '>>>'),
+    judge(18, '>>>>'),
+    judge(15, '>>>>>'),
+    judge(0, 'UUUUU'),
   ],
   timeDependencyJudgments: null,
 }

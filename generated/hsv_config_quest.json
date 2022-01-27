@@ -71,27 +71,27 @@
          "threshold": 30
       },
       {
-         "text": "<size=200%>+</size>",
+         "text": "<size=200%>></size>",
          "threshold": 27
       },
       {
-         "text": "<size=200%>++</size>",
+         "text": "<size=200%>>></size>",
          "threshold": 24
       },
       {
-         "text": "<size=200%>+++</size>",
+         "text": "<size=200%>>>></size>",
          "threshold": 21
       },
       {
-         "text": "<size=200%>++++</size>",
+         "text": "<size=200%>>>>></size>",
          "threshold": 18
       },
       {
-         "text": "<size=200%>+++++</size>",
+         "text": "<size=200%>>>>>></size>",
          "threshold": 15
       },
       {
-         "text": "<size=200%>UUUU</size>",
+         "text": "<size=200%>UUUUU</size>",
          "threshold": 0
       }
    ],
@@ -101,27 +101,27 @@
          "threshold": 70
       },
       {
-         "text": "<size=200%>-</size>",
+         "text": "<size=200%><</size>",
          "threshold": 63
       },
       {
-         "text": "<size=200%>--</size>",
+         "text": "<size=200%><<</size>",
          "threshold": 56
       },
       {
-         "text": "<size=200%>---</size>",
+         "text": "<size=200%><<<</size>",
          "threshold": 49
       },
       {
-         "text": "<size=200%>----</size>",
+         "text": "<size=200%><<<<</size>",
          "threshold": 42
       },
       {
-         "text": "<size=200%>-----</size>",
+         "text": "<size=200%><<<<<</size>",
          "threshold": 35
       },
       {
-         "text": "<size=200%>FFFF</size>",
+         "text": "<size=200%>FFFFF</size>",
          "threshold": 0
       }
    ],
@@ -151,7 +151,7 @@
             1
          ],
          "fade": false,
-         "text": "%B%n%C%n%A",
+         "text": "%B %C %A",
          "threshold": 114
       },
       {
@@ -162,7 +162,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%C%n%A",
+         "text": "%B %C %A",
          "threshold": 104
       },
       {
@@ -173,7 +173,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%C%n%A",
+         "text": "%B %C %A",
          "threshold": 92
       },
       {
@@ -184,7 +184,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%C%n%A",
+         "text": "%B %C %A",
          "threshold": 81
       },
       {
@@ -195,7 +195,7 @@
             1
          ],
          "fade": true,
-         "text": "%B%n%C%n%A",
+         "text": "%B %C %A",
          "threshold": 0
       }
    ],
