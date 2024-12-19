@@ -1,12 +1,13 @@
-local base_config = import 'common/base_before_after.jsonnet';
-local judgment_text = '%B%n%C%n%A';
+local base_config = import 'common/base_config.jsonnet';
+local judgment_text = '%B %C %A';
 local make_judgment = import 'common/make_judgment.jsonnet';
+local judge(threshold, text) = make_judgment(threshold, text, 200);
 
 base_config {
   judgments: [
     {
       threshold: 115,
-      text: '<size=300%>❤</size>',
+      text: '<size=300%>*</size>',
       color: [
         1.0,
         1.0,
@@ -72,11 +73,11 @@ base_config {
     },
   ],
   accuracyJudgments: [
-    make_judgment(15, '★', 250),
-    make_judgment(14, '♫ ♫', 225),
-    make_judgment(13, '♪ ♪ ♪', 200),
-    make_judgment(12, '♫', 175),
-    make_judgment(11, '♪', 150),
+    make_judgment(15, '*', 250),
+    make_judgment(14, '14', 225),
+    make_judgment(13, '13', 200),
+    make_judgment(12, '12', 175),
+    make_judgment(11, '11', 150),
     make_judgment(10, '10'),
     make_judgment(9, '9'),
     make_judgment(8, '8'),
@@ -88,6 +89,24 @@ base_config {
     make_judgment(2, '2'),
     make_judgment(1, '1'),
     make_judgment(0, '0'),
+  ],
+  beforeCutAngleJudgments: [
+    judge(70, ''),
+    judge(63, '<'),
+    judge(56, '<<'),
+    judge(49, '<<<'),
+    judge(42, '<<<<'),
+    judge(35, '<<<<<'),
+    judge(0, 'FFFFF'),
+  ],
+  afterCutAngleJudgments: [
+    judge(30, ''),
+    judge(27, '>'),
+    judge(24, '>>'),
+    judge(21, '>>>'),
+    judge(18, '>>>>'),
+    judge(15, '>>>>>'),
+    judge(0, 'UUUUU'),
   ],
   timeDependencyJudgments: null,
 }
